@@ -1,14 +1,6 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE.md)
-[![GitHub issues](https://img.shields.io/github/issues/mariusmuntean/chartjs.blazor)](https://github.com/mariusmuntean/ChartJs.Blazor/issues)
-[![GitHub forks](https://img.shields.io/github/forks/mariusmuntean/chartjs.blazor)](https://github.com/mariusmuntean/ChartJs.Blazor/network/members)
-[![GitHub stars](https://img.shields.io/github/stars/mariusmuntean/chartjs.blazor)](https://github.com/mariusmuntean/ChartJs.Blazor/stargazers)
-
-[![Join the chat at https://gitter.im/ChartJs-Blazor/community](https://badges.gitter.im/ChartJs-Blazor/community.svg)](https://gitter.im/ChartJs-Blazor/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-[![NuGet Downloads (official NuGet)](https://img.shields.io/nuget/dt/ChartJs.Blazor?label=NuGet%20Downloads)](https://www.nuget.org/packages/ChartJs.Blazor/)  
-[![NuGet Downloads (2.0 NuGet)](https://img.shields.io/nuget/dt/ChartJs.Blazor.Fork?label=NuGet%20Downloads)](https://www.nuget.org/packages/ChartJs.Blazor.Fork/)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4edc0972-1674-4ff7-8fdc-41e643b33738/deploy-status)](https://app.netlify.com/sites/chartjs-blazor-samples/deploys)
+# Important Notes
+1. Forked from abandoned [mariusmuntean/ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor). 
+2. This repo is NOT maintained and NOT supported.
 
 # Introduction
 This is a Blazor library that wraps [Chart.js](https://www.chartjs.org/). You can use it in both client- and server-side projects.
